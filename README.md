@@ -28,3 +28,5 @@ This Weather App is a dynamic web application built using HTML, JavaScript, Reac
 3. Install dependencies using `npm install`.
 4. Create a free account on OpenWeatherMap (https://openweathermap.org/) to obtain an API key.
 5. Create a `.env` file in the root directory of the project and add your API key: 
+
+## REACT_APP_API_KEY=your_api_key_here
