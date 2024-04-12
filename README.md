@@ -30,3 +30,27 @@ This Weather App is a dynamic web application built using HTML, JavaScript, Reac
 5. Create a `.env` file in the root directory of the project and add your API key: 
 
 ## REACT_APP_API_KEY=your_api_key_here
+
+6. Start the development server using `npm start`.
+7. Open your web browser and navigate to `http://localhost:3000` to view the Weather App.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature/your_feature_name`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/your_feature_name`).
+6. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions, suggestions, or issues regarding the Weather App, feel free to contact me at gaurityagi21@gmail.com
+
+
